@@ -5,7 +5,7 @@ cask "writ" do
   url "https://github.com/ibrahemid/writ/releases/download/v#{version}/Writ_#{version}_universal.dmg"
   name "Writ"
   desc "Lightweight, always-ready text editor for developers"
-  homepage "https://github.com/ibrahemid/writ"
+  homepage "https://writ.ibrahemid.com/"
 
   livecheck do
     url :url
